@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ivan
 
-🎓 IT Student | 💻 Entry-Level Developer | 🚀 Internship Seeker
+🎓 IT Student | 💻 Entry-Level Developer | 🚀 Internship Seeker | ☁️ Cloud Solution Cadet 
 
 - 🔭 Working on: personal and school-related projects  
 - 🌱 Learning: new technologies and improving core programming skills  
@@ -44,7 +44,8 @@ Depending on the project, my repositories may include:
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML, Advanced C++  
+- **Languages:** HTML, C++ , Python
+- **Tools:** Git, Github, VS Code, AWS
 - **Focus Areas:**  
   - Web fundamentals  
   - Programming logic  
