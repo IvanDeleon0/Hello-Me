@@ -4,7 +4,7 @@
 
 - 🔭 Working on: personal and school-related projects  
 - 🌱 Learning: new technologies and improving core programming skills  
-- 💡 Interests: coding, problem-solving, and technology  
+- 💡 Interests: coding, problem-solving, automation, cloud and technology  
 - 🚀 Actively seeking internship opportunities to gain real-world experience  
 - 📫 Contact: manimtimcarl8@gmail.com  |  www.linkedin.com/in/carl-manimtim
   
