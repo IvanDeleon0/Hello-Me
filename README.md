@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ivan
 
-🎓 IT Student | 💻 Entry-Level Developer | 🚀 Internship Seeker | ☁️ Cloud Solution Cadet 
+🎓 IT Student | 💻 Entry-Level Developer | 🚀 Internship Seeker | ☁️ Cloud Solution Cadet | Aspiring Cloud Engineer
 
 - 🔭 Working on: personal and school-related projects  
 - 🌱 Learning: new technologies and improving core programming skills  
